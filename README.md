@@ -18,7 +18,7 @@
 * [Author](#Author)
 
 ##  Overflow
-This is a responsive landing page project. I used HTML / CSS & JS to create the page contnet.
+This is a responsive landing page project using JS to scroll to a specific section when clicking on its link in nav and hide nav if there is no scroll.
 
 ## Built_With
 Html

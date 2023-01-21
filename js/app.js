@@ -83,7 +83,7 @@ ourList.addEventListener("click",function(e){
 })
 
 // hide the nav bar if there is no scroll
-var _scroll = null;
+let _scroll = null;
 window.addEventListener('scroll', function() {
     if(_scroll !== null) {
         clearTimeout(_scroll); 
